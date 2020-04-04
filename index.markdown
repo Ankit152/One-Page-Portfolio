@@ -1,9 +1,8 @@
 ---
 layout: home
 ---
-<<<<<<< HEAD
-# Hi, I am Madhu!
-Computer Science Engineer in the making! As sweet as the name suggests 😊.
+# Hi, I am Ankit!
+Computer Science Engineer in the making! 
 
 <div class="only-print" sty>
 <h1>Contact Information</h1>
@@ -17,26 +16,34 @@ Computer Science Engineer in the making! As sweet as the name suggests 😊.
 </div>
 
 # About Myself
-Show your ISC skills here.  
+I am a 2nd year undergrad student. Loves Machine learning, android development and OpenSource contribution!
 Here's a little bit more [About Myself](/about/).
 
 ## Education Qualifications
-First College (with GPA) then Class 12 (specify stream) then Class 10 (specify year and percentages.)
+- Kalyani Government Engineering College (with GPA 8.57 till 3rd sem).
+- Kendriya Vidyalaya No.1 Ishapore (PCM with Computer Science) with a score of 91%
+- Kendriya Vidyalaya No.1 Ishapore (2015 with 9.4 CGPA)
 
 ## My Coursework
-Whatever you study here (mane college curriculam plus oisob java and all)
+- Data Structures and Algorithms
+- Computer organisation and Architecture.
+- Discrete Mathematics
+- Programming in C
 
 ## Building Myself On
-Your Skills Here
+- C/C++, Java, Python
+- git/github, numpy, pandas
 
 ## Projects that I have worked on
-Some projects (if any else delete)
+- Object detection using openCV.
+- Fight corona chat bot and deployed on DialogFlow.
 
 ## Awards and Co-Curriculars
-School life things (for you :p)
+- Bagged first position in Robo Soccer game held at Annual Technical fest ESPEKTRO'19.
+- Bagged second position in turbulenece held at Annual Technical fest ESPEKTRO'19.
 
 ## My Interests
-Your Dance, Guitar and Drama (shob meye rai kore :3)
-=======
+- Problem solving
+- Machine Learning
+- Android Development
 # Welcome
->>>>>>> parent of 54ada2e... Basic Structure Ready
